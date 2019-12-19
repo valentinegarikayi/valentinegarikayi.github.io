@@ -2,11 +2,11 @@
 layout: post
 title: Namibia: African Success Story or Elite Propaganda
 date: 2018-07-30
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: hage-picture.jpg Add image post (optional)
+description: An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
+img: hage-picture.jpg
 ---
 An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
-I have updated it in light of the Namibian [Fishrot scandal](https://www.thenamibian.mobi/85656/read/FISHROT-TIMELINE)
+I have updated it in light of the Namibian [Fishrot scandal](https://www.enamibian.mobi/85656/read/FISHROT-TIMELINE)
 
 On the 25th of July 2018, Samuel Shali Nghihepa, a sergeant in the Namibian Police Special Reserve Force Division, murdered his ex-girlfriend, Alina Kahehongo, in full view of her colleagues at a local supermarket in Windhoek, Namibia’s capital, before turning the gun on himself.
 
