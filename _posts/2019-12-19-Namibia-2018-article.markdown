@@ -4,6 +4,7 @@ title: Namibia: African Success Story or Elite Propaganda
 date: 2018-07-30
 description: An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
 img: hage-picture.jpg
+tags: [Js, Namibia ] # add tag
 ---
 An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
 I have updated it in light of the Namibian [Fishrot scandal](https://www.enamibian.mobi/85656/read/FISHROT-TIMELINE)
