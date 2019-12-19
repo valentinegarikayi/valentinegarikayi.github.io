@@ -1,25 +1,33 @@
-title: Hello, world! I'm David Freeman
+title: The Francis Garikayi Blogs
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
+  This blog is about Politics, Education and Economics in Southern Africa
+  My main focus is on the last three countries to gain independece-that is 
+  Namibia, South Africa and Zimbabwe. I will share my experiences from being 
+  a citizen of Zimbabwe and having worked in Namibia and educated in South Africa
+  A common theme across the three countries is that, firstly they all faced some
+  form of racial segreggation and or aparheid. Secondly and since the dawm of
+  majority rule in all the lands, instances of large scale corruption in the 
+  countries have dominated global headlines. Finally, the three nations seem to 
+  grapple with widespread power shortages and poor service delivery. 
+permalink: #':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: #veegarikayi
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+author: francis_vee_garikayi # add your name
+author-img: francis-garikayi.jpg # add your photo
+about-author: I am a PhD Researcher whose interests are in Politics, Economics
+              and Education in Southern Africa. My main focus is on Zimbabwe and
+              South Africa. # add description
+social-twitter: veegarikayi
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: valentinegarikayi # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: fran.garikayi@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Schrodinger's-Cat # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
