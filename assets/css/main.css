@@ -797,7 +797,7 @@ img + em {
   margin-top: 10px;
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 25px;
 }
 
 blockquote {
@@ -1152,7 +1152,7 @@ footer .copyright {
 
 .post .post-content .post-date,
 .post .post-content .post-words {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .post .post-content .post-title {
