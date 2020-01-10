@@ -1,54 +1,38 @@
 ---
 layout: post
-title: "South Africa's relationship with big business"
+title: "South Africa's Relationship with Big Business"
 date: 2018-01-03
 description: An earlier version of this article was initially published on JerichoOnline on the 3rd of January 2018
 img: Cape_Town.jpg
 tags: [Politics, South Africa ] # add tag
 ---
-Delivering his Christmas message, [South Africa’s]() newly elected African National Congress (ANC) President Cyril Ramaphosa vowed to build [an inclusive South African economy]() – unwittingly admitting the failure of his own party.Despite having been in power for the past 23 years, the ANC has failed to break free of the tentacles of apartheid that continue to lock the country into an economic system of racial inequality.The apartheid system was abolished in 1994, and while the lacklustre performance of the ANC government since is attributable to various factors, a key contributor to continuing inequality is the role of big corporations as major players in the economy.The worry for many people is that the election of Ramaphosa, [a wealthy businessman](), strengthens the neoliberalism's hold on the country;litte change is expected for the majority of people unless radical economic transformation is implemented under his administration.
+Delivering his Christmas message, [South Africa’s]() newly elected African National Congress (ANC) President Cyril Ramaphosa vowed to build [an inclusive South African economy]() – unwittingly admitting the failure of his own party. Despite having been in power for the past 23 years, the ANC has failed to break free of the tentacles of apartheid that continue to bedevil the country into an economic system of inequality. The apartheid system was abolished in 1994, and while the lacklustre performance of the ANC government since is attributable to various factors, a key contributor to continuing inequality is the [role of big corporations as major players in the economy]().The worry for many people is that the election of Ramaphosa, [a wealthy businessman](), strengthens neoliberalism's hold on the country; litte change is expected for the majority of unless radical economic transformation is implemented under his administration.
 
 **Corporate South Africa**
 
-In recent times, there has been furore over the Steinhoff Scandal which wiped out billions of Rand in pension funds. In another case, the Gupta family (a wealthy family which has secured lucrative government contracts on the back of its political links), along with KPMG, McKinsey and SAP, have been implicated in a web of corruption allegations.
-
-Given the contemporary corporate scandals in South Africa it is easy to assume it is a recent problem. An examination of corporate South Africa brings to the fore how corporations have been exploiting the country since the colonial era.
-
-A system of resource exploitation with near-monopolies in the extractive sector of the South African economy dates back to the 1800s in gold and diamond mining. It is indisputable that there are monopoly private corporations in South Africa which exert significant influence over various sectors of the economy, and monopoly capital has dominated discourse throughout much of the ANC’s history in South African politics.
+In recent times, there has been furore over the [Steinhoff Scandal]() which wiped out billions of Rands in pension funds. Likewise, the Gupta family (a wealthy family which has secured lucrative government contracts on the back of its [political links]()), along with KPMG, McKinsey and SAP, have been implicated in a web of corruption allegations. But this is no modern problem. An examination of corporate South Africa brings to the fore how corporations have been exploiting the country since the colonial era. A system of resource exploitation by monopoly capital in the extractives sector of the South African economy dates back to the 1800s in gold and diamond mining. Thus, [monopoly capital]() has continued to dominate the South African economy even under democratic ANC rule.
 
 ![De Beers]({{site.baseurl}}/assets/img/Britannica_Diamond_11.jpg)
-#### This De Beers diamond mine from 1873 shows that the history of large corporations in South Africa is no new thing. Photo credit: Wikipedia Commons.
+##### This De Beers diamond mine from 1873 shows that the history of large corporations in South Africa is no new thing. Photo credit: Wikipedia Commons.
 
-In a capitalist system, he who pays the piper calls the tune. On the advent of democracy in South Africa there were minimal changes to the ownership of capital. In fact, to further entrench their power, South African corporations roped a small group of African elites into the game.
+In a capitalist system, he who pays the piper calls the tune. On the advent of democracy in South Africa there were minimal changes to the ownership of capital. In fact, to further entrench their power, South African corporations roped a small group of African elites into the game. This was done through the [black economic empowerment]() (BEE) scheme, a top down wealth distribution approach which was implemented by the ANC ostensibly to eliminate poverty. The BEE was founded on the theory of trickle down economics. The supposed assumption was that, by making a few black people wealthy, it would translate into prosperity for the majority. The result was social strife, increased inequality and unemployment. Whilst most South Africans have had to endure poverty, black elites and other owners of capital have seen a rise in their fortunes. For instance, the ANC’s recently elected President, Cyril Ramaphosa, a former trade unionist, has a reported [net worth of $450m](). 
 
-This was done through the black economic empowerment (BEE) scheme, a top down wealth distribution approach which was implemented by the ANC to eliminate poverty.
-
-The BEE was founded on the theory of trickle down economics. The supposed assumption was that, by making a few black people wealthy, it would translate into prosperity for the majority. The result was social strife, salary inequalities on racial lines and unemployment.
-
-Whilst most South Africans have had to endure poverty, black elites and other owners of capital have seen a rise in their fortunes. For instance, the ANC’s recently elected President, Cyril Ramaphosa, a former trade unionist, has a reported net worth of $450m.
-
-A neoliberal economic system has often been criticised as a game in which the dice are loaded in favour of those who already hold capital. To strengthen their position, the holders of capital rely on other players who are supposedly meant to be regulators and gatekeepers.
+South Africa's capitalist development has been made worse by the adoption of neoliberal economic policies by the ANC government. A neoliberal economic system has often been [criticised as a game in which the dice are loaded]() in favour of those who already hold capital. Whats more, holders of capital strengthen their position by colluding with regulators and gatekeepers. Indeed, a few examples from South Africa are revealing.
 
 **Who abets plunder of the masses?**
 
-KPMG South Africa was rocked by a corruption scandal involving the Gupta family in September 2017. Eight KPMG officials resigned in the aftermath of the scandal. This was viewed in some quarters as the audit and assurance profession being a mere tool for corporations to gain a veneer of authenticity in business.
+KPMG South Africa was [rocked by a corruption scandal]() involving the Gupta family in September 2017. Eight KPMG officials resigned in the aftermath of the scandal. This scandal brought the audit and assurance profession under scrutiny. Critics from some quarters argued that the audit and assurance profession was a mere tool for corporations to gain a veneer of authenticity in business.
 
 ![Audit Firms]({{site.baseurl}}/assets/img/Firms.png)
-#### The ‘Big Four’ auditing firms have come under increasing criticism in South Africa. Photo Credit: Joe Barnes/Jericho.
+##### The ‘Big Four’ auditing firms have come under increasing criticism in South Africa. Photo Credit: Joe Barnes/Jericho.
 
-In South Africa and worldwide, the accountancy and audit profession is dominated by the “Big Four” firms: Deloitte, PriceWaterhouseCoopers (PWC), Ernst and Young (EY) and KPMG. Together they run a near-monopoly of providing audit and assurance services to the biggest corporations in South Africa.
-
-Clients are shuffled between these firms and because companies pay audit firms for their services, conflicts of interest are hard to avoid. Moreover, while most people regard a “clean audit” as a measure of corporate responsibility and clean business conduct, the fact remains that audits are not meant to benefit the public but rather the owners of capital.
-
-The role of accountants as allies of corporations in abetting the plunder of the masses in South Africa cannot be underestimated, and proof of this lies in audit reports. The wording of audit reports is often flimsy and superficial on matters such as corruption.
+In South Africa as is worldwide, the accountancy and audit profession is dominated by the “Big Four” firms: Deloitte, PriceWaterhouseCoopers (PWC), Ernst and Young (EY) and KPMG. Together these firms run a near-monopoly of providing audit and assurance services to the biggest corporations in South Africa. Clients are shuffled between these firms and because companies pay audit firms for their services, conflicts of interest are hard to avoid. Moreover, while most people regard a “clean audit” as a measure of corporate responsibility and clean business conduct, the fact remains that audits are not meant to benefit the public but rather the owners of capital. The role of accountants as [allies of corporations]() in abetting the plunder of the masses in South Africa cannot be underestimated, and proof of this lies in audit reports. The wording of audit reports is often flimsy and superficial on important matters such as corruption.
 
 **Credit rating agencies crown the system**
 
-Since neoliberalism supports unfettered globalisation in pursuit of blanket deregulation, certain tools are needed to keep this system in motion, and South Africa provides an interesting case study.
+Since neoliberalism supports unfettered globalisation in pursuit of blanket deregulation, certain tools are needed to keep this system in motion, and South Africa provides an interesting case study. In November 2017, the Rainbow Nation was [downgraded to junk status]() in the credit market. 
 
-In November 2017, the Rainbow Nation had its rating downgraded to junk status in the credit market. Credit is the lifeblood of business and regulating it from a distance is crucial for increasing profits.
-
-The majority of rating agencies are foreign entities, and with South Africa downgraded, corporations are compelled to pay more interest owing to the elevated ‘risk’ in the eyes of the rating agencies. The result of this is erosion of pension investments, with the general citizenry emerging as the major victims.
+Credit is the lifeblood of business and regulating it from a distance is crucial for increasing profits. The majority of rating agencies are foreign entities, and with South Africa downgraded, corporations are compelled to pay more interest owing to the elevated ‘risk’ in the eyes of the rating agencies. The result of this is erosion of pension investments, with the general citizenry emerging as the major victims.
 
 On the other hand, the providers of capital have the most to gain. With the cost of credit and capital increasing after a credit downgrades, those lending money, often foreign investors and banks, will see their dividends rising.
 

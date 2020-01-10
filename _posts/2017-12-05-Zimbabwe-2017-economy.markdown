@@ -40,7 +40,7 @@ Owing to the poor management of the diamond windfall, few benefits were enjoyed 
 The Reserve Bank of Zimbabwe resorted to printing increasing amounts of money from 2004 in order to subsidise failing farms and war veterans. In addition, government expenditure was financed by printing money. These quasi-fiscal activities were estimated to have reached 75% of GDP in 2006. The resulting losses from these activities were in turn financed by creating more money. As a result money supply increased astronomically and the official inflation rate had risen to 1,594% by January 2007. This trend continued in the subsequent periods and by July 2008 inflation had reached 2,600%. In January 2009 the Reserve Bank of Zimbabwe issued a Z$100 trillion dollar note, the largest denomination in the history of money. Most people simply decided not to use the Zimbabwean dollar anymore. Consequently, the Zimbabwean Dollar was abandoned in favour of multiple foreign currencies, mainly the US dollar and the South African Rand.
 
 ![Mashava]({{site.baseurl}}/assets/img/Mashava_asbestos.jpg)
-##### Extractive industries such as mining have become a major part of the Zimbabwean economy. Photo credit: Wikipedia Commons
+##### Extractive industries such as mining are a major part of the Zimbabwean economy. Photo credit: Wikipedia Commons
 
 **Looking forward and moving away from the growth model**
 
