@@ -12,13 +12,13 @@ On November 22, in his maiden address at the ZANU-PF headquarters, Zimbabwean Pr
 
 Zimbabwe became independent in 1980 and its new leaders adopted state-socialist policies intended to reduce poverty. At the time of its independence, Zimbabwe was amongst the top four most industrialised countries in Sub-Saharan Africa. The policies of the 1980s saw an improvement in social welfare indicators spurred by government interventions and support for smallholder farmers. For instance, there was significant investment in healthcare, especially for the poor, increasing from 2% of GDP in 1980 to 3% by 1990.
 
-The colonial Rhodesian government of the 1970s had adopted polices of import substitution and protectionism to counter the effect of sanctions imposed on the country by the international community. Further to this, Rhodesian law prohibited black workers from owning businesses or land. Because of this, Zimbabwe enjoyed a strong manufacturing and industrial sector relative to other African countries. This enabled it to be self-sufficient in many respects. Zimbabwe’s GDP per capita grew at a modest rate of 2% from the period 1980 to 1990.Thanks to a continuation of pre-independence policies, coupled with an infusion of social policies such as free education, affordable health care and food subsidies, most Zimbabweans enjoyed high standards of living despite modest economic growth.
+The colonial Rhodesian government of the 1970s had adopted polices of import substitution and protectionism to counter the effect of sanctions imposed by the international community. Further to this, Rhodesian law prohibited black workers from owning businesses or land. Because of this, Zimbabwe boasted of a strong manufacturing and industrial sector relative to other African countries. This enabled it to be self-sufficient in many respects. In the circumstances, Zimbabwe’s GDP per capita grew at a modest rate of 2% from the period 1980 to 1990.Thanks to a continuation of pre-independence policies, coupled with an infusion of social policies such as free education, affordable health care and food subsidies, most Zimbabweans enjoyed high standards of living despite modest economic growth.
 
 **Structural adjustment programme**
 
 In 1990, the government implemented an economic structural adjustment programme (ESAP) aimed at deregulating the domestic economy (prices, employment and wages), reducing the government debt and trade restrictions.The overarching effect of the ESAP, which was formulated in collaboration with the International Monetary Fund (IMF) and World Bank, was a shift from government intervention towards economic policies shaped by the market. Sadly, after the ESAP was put into place, there followed five years of economic turmoil, characterised by a sharp rise in food prices, deteriorating health services and rising unemployment. These problems were exarcerbated by a debilitating drought in 1992.
 
-Yet, 1996 brought renewed hope to the country as GDP per capita grew by 8%, however this proved to be transient as the government embarked on a costly exercise to placate increasingly agitated ex-combatants from the independence war.By November 1997, the economic crisis had reached a tipping point resulting in the Zimbabwean Dollar losing up to 75% against major currencies. The economic crisis of the 1990s climaxed with food riots which were forcefully crushed by President Robert Mugabe’s regime in 1998.
+Yet, 1996 brought renewed hope to the country as GDP per capita grew by 8%, however this proved to be transient as the government embarked on a costly exercise to placate increasingly agitated ex-combatants from the independence war. By November 1997, the economic crisis had reached a tipping point resulting in the Zimbabwean Dollar losing up to 75% against major currencies. The economic crisis of the 1990s climaxed with food riots which were forcefully crushed by President Robert Mugabe’s regime in 1998.
 
 ![Zimbabwe GDP]({{site.baseurl}}/assets/img/Zimbabwe_GDP.png)
 ##### Zimbabwe’s economic performance compared to the rest of sub-Saharan Africa since 1980. Photo credit: Wikipedia Commons
@@ -33,7 +33,7 @@ In June 2006, salvation appeared to have arrived for the struggling economy in t
 
 **_“A NEW CASE OF ‘BLOOD DIAMONDS’, IN WHICH STATE SECURITY FORCES SECRETLY OVERSAW THE EXTRACTION AND CRIMINAL SMUGGLING OF ROUGH DIAMONDS – IN THE PROCESS, VIOLENTLY DISPLACING LOCAL COMMUNITIES, INFORMAL MINERS AND LEGAL TITLE-HOLDERS, AND DEPRIVING THE NATIONAL TREASURY OF SIGNIFICANT NEW REVENUES AND FOREIGN EXCHANGE EARNINGS.”_**
 
-Owing to the poor management of the diamond windfall, few benefits were enjoyed by society at large; indeed inflation rose astronomically between 2006 and 2008.
+Owing to the poor management of the diamond windfall, a few people benefited from their discovery; indeed inflation rose astronomically between 2006 and 2008.
 
 **Hyperinflation**
 
