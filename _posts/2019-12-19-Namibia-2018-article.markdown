@@ -57,7 +57,7 @@ Despite enjoying a significant level of stability in relation to many countries 
 
 **Postscript**
 
-I initially wrote this article as an alternative voice to a seemingly one-sided view to the economic, social and political situation in Namibia. My argument at the time was that we needed to avoid superficial views on the state of post-colonial nations. In many instances, stable nations like Namibia may appear as being successful. This often masks the conditions of the poor and vulnerable whilst simultaneously raising the profile of elites. Looking back, I think I have been vindicated following Al Jazeera's publication of ['Anatomy of a Bribe'](https://www.youtube.com/watch?v=_FJ1TB0nwHs). Al Jazeera's work clearly points towards elites working in cahoots with foreigners to plunder Namibia's resources at the expense of the majority.
+I initially wrote this article as an alternative voice to a seemingly one-sided view to the economic, social and political situation in Namibia. My argument at the time was that we needed to avoid superficial views on the state of post-colonial nations. In many instances, stable nations like Namibia may appear as being successful. This often masks the conditions of the poor and vulnerable whilst simultaneously raising the profile of elites. Looking back, I think I have been vindicated following Al Jazeera's publication of ['Anatomy of a Bribe'](https://www.youtube.com/watch?v=_FJ1TB0nwHs). Al Jazeera's work clearly points towards elites working in cahoots with foreigners to plunder the country's resources at the expense of the majority.
 
 
 
