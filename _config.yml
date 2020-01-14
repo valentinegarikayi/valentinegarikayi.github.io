@@ -29,7 +29,8 @@ social-email: fran.garikayi@gmail.com # add your Email address
 discus-identifier: Schrodinger's-Cat # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: #Google Analytics
+  gtag('config', 'UA-154843016-1');
 
 # Build Settings
 markdown: kramdown
