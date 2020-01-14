@@ -30,7 +30,6 @@ discus-identifier: Schrodinger's-Cat # add your discus identifier
 
 # Tracker
 analytics: #Google Analytics
-  gtag('config', 'UA-154843016-1');
 
 # Build Settings
 markdown: kramdown
