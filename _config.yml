@@ -11,8 +11,8 @@ description: > # this means to ignore newlines until "baseurl:"
   grapple with widespread power shortages and poor service delivery. 
 <<<<<<< HEAD
 permalink: /:categories/:title
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https:valentinegarikayi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 =======
 permalink: #':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
