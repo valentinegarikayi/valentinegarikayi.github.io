@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   majority rule in all the lands, instances of large scale corruption in the 
   countries have dominated global headlines. Finally, the three nations seem to 
   grapple with widespread power shortages and poor service delivery. 
-permalink: #':title/'
+permalink: /:categories/:title
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #veegarikayi
