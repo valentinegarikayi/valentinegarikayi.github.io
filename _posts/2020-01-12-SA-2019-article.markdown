@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "South Africa must Expropriate Capital without Compensation instead of Land"
+title: "South Africa must expropriate Capital without compensation instead of Land"
 date: 2020-01-20
 description: Land reform in South Africa
 img: SA_land_reform_cover.jpg
