@@ -1,14 +1,6 @@
-title: The Francis Garikayi Blogs
+title: The Garikayi Blogspot
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is about Politics, Education and Economics in Southern Africa
-  My main focus is on the last three countries to gain independece-that is 
-  Namibia, South Africa and Zimbabwe. I will share my experiences from being 
-  a citizen of Zimbabwe and having worked in Namibia and educated in South Africa
-  A common theme across the three countries is that, firstly they all faced some
-  form of racial segreggation and or aparheid. Secondly and since the dawm of
-  majority rule in all the lands, instances of large scale corruption in the 
-  countries have dominated global headlines. Finally, the three nations seem to 
-  grapple with widespread power shortages and poor service delivery. 
+  This blog is about Politics, Education and Economics in Southern Africa 
 
 permalink: /:categories/:title
 url: http://valentinegarikayi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
