@@ -1,6 +1,6 @@
-title: The Garikayi Blogspot
+title: The Garikayi blogspot
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is about Politics, Education and Economics in Southern Africa 
+  This blog is about politics, education and economics in Southern Africa 
 
 permalink: /:categories/:title
 url: http://valentinegarikayi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
