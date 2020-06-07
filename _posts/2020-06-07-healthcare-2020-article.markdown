@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The decimation of Africa’s healthcare by global finance and philanthropy"
+title: "How global finance and philanthropy killed African healthcare"
 date: 2020-06-07
 description: Healthcare
 img: COVID-Zimbabwe.jpg
