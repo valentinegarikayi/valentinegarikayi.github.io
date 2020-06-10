@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spaghetti roads and bullet trains: A history of Zimbabwean elections"
+title: "Spaghetti roads and bullet trains: a history of elections in Zimbabwe"
 date: 2018-07-25
 description: An earlier version of this article was initially published on JerichoOnline on the 3rd of January 2018
 img: Mna_Rhamap.jpg
