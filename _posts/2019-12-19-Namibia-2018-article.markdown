@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Namibia: African Success Story or Elite Propaganda"
+title: "Namibia: African success story or elite propaganda"
 date: 2018-07-30
 description: An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
 img: hage-picture.jpg

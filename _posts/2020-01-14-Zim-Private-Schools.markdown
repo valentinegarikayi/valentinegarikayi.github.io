@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Private Schools must be banned in Zimbabwe"
+title: "Why private schools must be banned in Zimbabwe"
 date: 2020-02-16
 description: Education in Zimbabwe
 img: peterhouse.jpg

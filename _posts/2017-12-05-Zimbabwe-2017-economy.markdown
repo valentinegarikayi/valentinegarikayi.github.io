@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zimbabwe: A history of a Failed Economy and How to Fix it"
+title: "Zimbabwe: A history of a failed economy and how to fix it"
 date: 2017-12-05
 description: An earlier version of this article was initially published on JerichoOnline on the 5th of December 2017
 img: Zimbabwe_trillion.jpg

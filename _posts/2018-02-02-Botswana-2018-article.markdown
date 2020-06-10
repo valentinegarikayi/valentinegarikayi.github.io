@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Botswana's Fictitious Economic Miracle"
+title: "Botswana's fictitious economic miracle"
 date: 2018-02-03
 description: An earlier version of this article was initially published on JerichoOnline on the 30th of July 2018
 img: Gaborone_CBD2.jpg
