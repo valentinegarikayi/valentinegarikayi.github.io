@@ -1,6 +1,6 @@
 title: The Garikayi blogspot
 description: > # this means to ignore newlines until "baseurl:"
-  This blog is about politics, education and economics in Southern Africa 
+  This blog is about politics, education and economics in Southern Africa
 
 permalink: /:categories/:title
 url: http://valentinegarikayi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,8 +8,8 @@ site-twitter: veegarikayi
 
 # Author Settings
 author: francis vee garikayi # add your name
-author-img: francis-garikayi.jpg # add your photo
-about-author: I am a Doctoral Researcher interested 
+author-img: francis-garikayi.png # add your photo
+about-author: I am a Doctoral Researcher interested
               in politics, economics
               and education in Southern Africa. # add description
 social-twitter: veegarikayi
