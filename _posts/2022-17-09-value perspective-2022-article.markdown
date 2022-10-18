@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A value perspective of price and currency stability in Zimbabwe"
+title: A value perspective of price and currency stability in Zimbabwe
 date: 2022-09-20
 description: Economics
 img: Zimbabwe_money.png
